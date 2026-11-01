@@ -1,0 +1,6 @@
+{
+  "name": "Project Etheria",
+  "description": "Open-world fantasy action RPG set across eight interconnected regions of Etheria, featuring five playable classes, real-time combat, branching quests, crafting, dungeons, local saves, and Godot 4 low-spec compatibility architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
